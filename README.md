@@ -1,5 +1,6 @@
 # Tugas-Resume-Fisika
 Seminar
+
 Narasumber : DR. HANIF FAKHRURROJA, S.SI, M.T, ACE, MCAAIF, CBDA, CRP, ITS AI, ITS PY
 
    Program Barista adalah program untuk memberikan bantuan riset yang di lakukan oleh mahasiswa tingkat pada jenjang pendidikan Diploma IV/Skala satu skala dua atau setara dengan perguruan tinggi di dalam negeri
